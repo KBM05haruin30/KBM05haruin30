@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![KBM05haruin30's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBM05haruin30&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qhals5551)](https://solved.ac/qhals5551)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBM05haruin30&layout=compact&theme=highcontrast)
